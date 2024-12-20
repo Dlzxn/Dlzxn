@@ -1,5 +1,5 @@
 ### Hi there 👋, Python/GO Developer
-![]([https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png]}
+![]([https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png])
 
 I am Alex, I am 18 y.o. Im learning in NNGU Lobachevskogo
 
