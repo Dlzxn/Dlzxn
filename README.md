@@ -6,7 +6,7 @@
 ---
 
 ### 🛠️ **Skills**  
-- **Languages & Frameworks:** Python | Django | Aiogram | GO  
+- **Languages & Frameworks:** Python | GO | Django | Aiogram | FastAPI
 - **Databases:** SQL | SQLAlchemy | PostgreSQL | Redis  
 
 ---
