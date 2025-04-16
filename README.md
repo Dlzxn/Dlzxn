@@ -19,10 +19,6 @@
 ### 🌱 **What I’m learning:**  
 - Advanced concepts in programming and system architecture at UNN Lobachevsky.  
 
-### 💬 **Ask me about:**  
-- Why I love Python? It’s a fun story!  
-- Any of the technologies I use.  
-
 ### 📫 **How to reach me:**  
 - Telegram: [@illgettomorow](https://t.me/illgettomorow)  
 
