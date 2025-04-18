@@ -2,7 +2,7 @@
 # My site: http://dlzxndev.ru/
 ### Python/C++ Developer  
 
-![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0D6EFD&width=435&lines=Hi+there!+I+am+Alex.;Python%2FGO+Developer.;Learning+at+UNN+Lobachevsky.;Passionate+about+coding!;Let%27s+build+something+great!+%F0%9F%92%AA)
+![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0D6EFD&width=435&lines=Hi+there!+I+am+Alex.;Python%2FC+++Developer.;Learning+at+UNN+Lobachevsky.;Passionate+about+coding!;Let%27s+build+something+great!+%F0%9F%92%AA)
 
 ---
 
