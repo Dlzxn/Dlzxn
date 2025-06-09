@@ -40,7 +40,6 @@
 ### 📫 Контакты  
 - Telegram: [@illgettomorow](https://t.me/illgettomorow)  
 - GitHub: [Dlzxn](https://github.com/Dlzxn)  
-- Email: *по желанию можешь добавить*
 
 ---
 
