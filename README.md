@@ -41,7 +41,7 @@
 ---
 
 ### 📫 Контакты  
-- Telegram: [@illgettomorow](https://t.me/illgettomorow)  
+- Telegram: [@illgettomorow](https://t.me/BlackPython)  
 - GitHub: [Dlzxn](https://github.com/Dlzxn)  
 
 ---
