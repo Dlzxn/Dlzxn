@@ -6,8 +6,7 @@
 
 # 👋 Hi there! I'm Alexey Marichev
 ### ML/DL Engineer | Backend Developer
-
-[🌐 Personal Website](http://dlzxndev.ru/) | [📧 Email](mailto:me@dlzxn-ai.ru)
+[📧 Email](mailto:me@dlzxn-ai.ru)
 
 ![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0D6EFD&width=600&center=true&lines=ML+/+DL+Engineer;Backend+Architect;AI+Solutions+Expert;Python+%2B+C%2B%2B+Developer)
 
@@ -62,15 +61,6 @@ Deep-dives into mathematical modeling and algorithm implementation: [Research Re
 
 ---
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dlzxn&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dlzxn&layout=compact&theme=radical" width="48%"/>
-</p>
-
----
-
 ### 📫 Connect with me
 [![Telegram](https://img.shields.io/badge/Telegram-26A6E2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/BlackPython)
-[![Portfolio](https://img.shields.io/badge/Website-dlzxndev.ru-blue?style=for-the-badge&logo=vercel)](http://dlzxndev.ru/)
 [![Email](https://img.shields.io/badge/Email-me%40dlzxn--ai.ru-red?style=for-the-badge&logo=gmail)](mailto:me@dlzxn-ai.ru)
