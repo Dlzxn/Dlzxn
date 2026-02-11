@@ -4,65 +4,73 @@
 >
 > — Nikolai Lobachevsky
 
-# 👋 Hi there! I'm Alex
-### Python ML/DL Engineer
-![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0D6EFD&width=600&center=true&lines=Python+%2B+ML+Engineer;Backend+Developer;C%2B%2B+Engineer;AI+Solutions+Architect)
+# 👋 Hi there! I'm Alexey Marichev
+### ML/DL Engineer | Backend Developer
+
+[🌐 Personal Website](http://dlzxndev.ru/) | [📧 Email](mailto:me@dlzxn-ai.ru)
+
+![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0D6EFD&width=600&center=true&lines=ML+/+DL+Engineer;Backend+Architect;AI+Solutions+Expert;Python+%2B+C%2B%2B+Developer)
 
 ---
 
-### 🛠️ Tech Stack  
+### 🛠️ Technical Competencies
 
-#### 🧠 Machine Learning & AI
-- **Core:** Scikit-learn, CatBoost, XGBoost, Pandas, NumPy, PyTorch
-- **NLP & LLM:** Transformers (Hugging Face), Gemini/OpenAI API, Semantic Search, Text Embeddings
-- **Specialty:** Ranking & Scoring Systems, Anomaly Detection, Vector Databases (RAG)
+#### 🧠 Machine Learning & Deep Learning
+* **Standard ML:** Linear/Logistic Regression, Decision Trees, Random Forest.
+* **Gradient Boosting:** CatBoost, XGBoost, LightGBM.
+* **Clustering & Metrics:** k-means, LVQ (Learning Vector Quantization), KNN.
+* **Deep Learning:** CNN (Classification & Segmentation), RNN/LSTM/GRU, Transformers.
+* **Frameworks:** PyTorch, scikit-learn, NumPy, Pandas.
+* **Optimization:** Custom loss functions, LR scheduling, Model quantization.
 
-#### 💻 Backend Development
-- **Languages:** Python, C++
-- **Frameworks:** FastAPI, Aiogram, SQLAlchemy, Pydantic
-- **Databases:** PostgreSQL, ClickHouse (Analytical/High-Load), Redis, MongoDB
+#### 🤖 AI Solutions & Computer Vision
+* **LLM Orchestration:** RAG (Retrieval-Augmented Generation), LangChain, LlamaIndex.
+* **Fine-tuning:** LoRA/QLoRA optimization for domain-specific tasks.
+* **Computer Vision:** Object Detection (YOLO), Face Recognition, Image Segmentation.
+* **Prompt Engineering:** Designing robust pipelines for generative AI.
 
-#### ⚙️ Infrastructure & DevOps
-- Docker & Docker Compose
-- Linux System Administration (Systemd, Bash)
-- Git Workflows & CI/CD Basics
+#### 💻 Backend & Data Engineering
+* **Frameworks:** FastAPI, Asyncio, Aiogram, Telethon.
+* **Databases:** * *Relational:* PostgreSQL, SQLite.
+    * *Analytical:* ClickHouse (High-performance telemetry/logs).
+    * *NoSQL:* MongoDB, FAISS (Vector search).
+* **Infrastructure:** Docker, Git, MLflow, Linux (Systemd/Bash).
 
 ---
 
 ### 🚀 Featured Project: AutoHR AI
-**An intelligent candidate ranking system based on semantic analysis.**
-* **The Problem:** Recruiters waste hours manually screening resumes with a high risk of human error.
-* **The Solution:** A system that analyzes CVs using NLP and ranks them based on custom importance coefficients set by HR.
-* **Tech:** Python, FastAPI, NLP Embeddings, LLM Integration, PostgreSQL.
-* **Impact:** Reduces initial screening time by up to 80% while maintaining high accuracy.
+**Intelligent candidate ranking and CV analysis engine.**
+* **Core:** Automated screening using semantic analysis and custom HR weighting.
+* **Tech:** FastAPI, NLP Embeddings, LLM Integration, PostgreSQL.
+* **Result:** Efficiently filters thousands of applications based on professional relevance rather than just keywords.
 
 ---
 
 ### 📚 Research & Publications
-I document my findings and mathematical deep-dives in my [Research Repository](https://github.com/Dlzxn/Research).
+Deep-dives into mathematical modeling and algorithm implementation: [Research Repository](https://github.com/Dlzxn/Research).
 
-* **[LVQ Algorithm Analysis](https://github.com/Dlzxn/Research/tree/main/LVQ)** – Exploring Learning Vector Quantization for classification tasks.
-* **[Predictive Modeling for Business](https://github.com/Dlzxn/Research)** – Applying ML models to solve real-world economic problems.
-* **[System Architecture Design](https://github.com/Dlzxn/Research)** – Best practices for building scalable backend systems.
+* **[LVQ Algorithm Analysis](https://github.com/Dlzxn/Research/tree/main/LVQ)** – Implementing Learning Vector Quantization for advanced classification.
+* **[Predictive Business Modeling](https://github.com/Dlzxn/Research)** – Economic forecasting using Gradient Boosting.
+* **[System Architecture](https://github.com/Dlzxn/Research)** – Building scalable AI-driven backends.
 
 ---
 
 ### 🎓 Education
-**Lobachevsky University (ITMM)**
-* Focus on Applied Mathematics and Software Architecture.
-* Deep-dives into ML Algorithms, Data Structures, and Optimization.
+**Lobachevsky University (ITMM), 2024 — 2028**
+* **Bachelor’s Degree in Mathematics.**
+* Specializing in Software Architecture, Optimization, and ML Algorithms.
 
 ---
 
 ### 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dlzxn&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dlzxn&layout=compact&theme=radical&exclude_repo=Research" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dlzxn&layout=compact&theme=radical" width="48%"/>
 </p>
 
 ---
 
-### 📫 Get in Touch
+### 📫 Connect with me
 [![Telegram](https://img.shields.io/badge/Telegram-26A6E2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/BlackPython)
 [![Portfolio](https://img.shields.io/badge/Website-dlzxndev.ru-blue?style=for-the-badge&logo=vercel)](http://dlzxndev.ru/)
-[![Email](https://img.shields.io/badge/Email-i%40kostitcin.ru-red?style=for-the-badge&logo=gmail)](mailto:i@kostitcin.ru)
+[![Email](https://img.shields.io/badge/Email-me%40dlzxn--ai.ru-red?style=for-the-badge&logo=gmail)](mailto:me@dlzxn-ai.ru)
