@@ -6,7 +6,6 @@
 
 # 👋 Hi there! I'm Alexey Marichev
 ### ML/DL Engineer | Backend Developer
-[📧 Email](mailto:me@dlzxn-ai.ru)
 
 ![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0D6EFD&width=600&center=true&lines=ML+/+DL+Engineer;Backend+Architect;AI+Solutions+Expert;Python+%2B+C%2B%2B+Developer)
 
