@@ -37,21 +37,8 @@
 
 ---
 
-### 🚀 Featured Project: AutoHR AI
-**Intelligent candidate ranking and CV analysis engine.**
-* **Core:** Automated screening using semantic analysis and custom HR weighting.
-* **Tech:** FastAPI, NLP Embeddings, LLM Integration, PostgreSQL.
-* **Result:** Efficiently filters thousands of applications based on professional relevance rather than just keywords.
-
----
-
 ### 📚 Research & Publications
 Deep-dives into mathematical modeling and algorithm implementation: [Research Repository](https://github.com/Dlzxn/Research).
-
-* **[LVQ Algorithm Analysis](https://github.com/Dlzxn/Research/tree/main/LVQ)** – Implementing Learning Vector Quantization for advanced classification.
-* **[Predictive Business Modeling](https://github.com/Dlzxn/Research)** – Economic forecasting using Gradient Boosting.
-* **[System Architecture](https://github.com/Dlzxn/Research)** – Building scalable AI-driven backends.
-
 ---
 
 ### 🎓 Education
