@@ -38,6 +38,7 @@
 
 ### 📚 Research & Publications
 Deep-dives into mathematical modeling and algorithm implementation: [Research Repository](https://github.com/Dlzxn/Research).
+HABR: https://habr.com/ru/users/Dlzxn/articles
 ---
 
 ### 🎓 Education
