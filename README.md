@@ -51,3 +51,4 @@ HABR: https://habr.com/ru/users/Dlzxn/articles
 ### 📫 Connect with me
 [![Telegram](https://img.shields.io/badge/Telegram-26A6E2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/BlackPython)
 [![Email](https://img.shields.io/badge/Email-me%40dlzxn--ai.ru-red?style=for-the-badge&logo=gmail)](mailto:me@dlzxn-ai.ru)
+[![Habr](https://img.shields.io/badge/Habr-Dlzxn-80ADED?style=for-the-badge&logo=habr&logoColor=white)](https://habr.com/ru/users/Dlzxn/articles/)
